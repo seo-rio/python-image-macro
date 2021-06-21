@@ -1,4 +1,3 @@
-import win32gui
 import pyautogui
 import pywinauto
 import pygetwindow
